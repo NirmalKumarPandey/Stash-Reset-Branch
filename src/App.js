@@ -15,6 +15,11 @@ function App() {
       <img alt='' src="./images/Rajendra3.jpeg"></img>
       <img alt='' src="./images/Rajendra4.jpeg"></img>
       <img alt='' src="./images/Rajendra5.jpeg"></img>
+      <img alt='' src="./images/Amitabh.jpeg"></img>
+      <img alt='' src="./images/Amitabh1.jpeg"></img>
+      <img alt='' src="./images/Amitabh2.jpeg"></img>
+      <img alt='' src="./images/Amitabh3.jpeg"></img>
+      <img alt='' src="./images/Amitabh4.jpeg"></img>
     </div>
   );
 }
