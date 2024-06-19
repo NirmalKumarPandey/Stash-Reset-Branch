@@ -9,6 +9,11 @@ function App() {
       <img alt='' src="./images/ram.jpeg"></img>
       <img alt='' src="./images/Ram12.jpeg"></img>
       <img alt='' src="./images/Shiv.jpeg"></img>
+      <img alt='' src="./images/Amitabh.jpeg"></img>
+      <img alt='' src="./images/Amitabh1.jpeg"></img>
+      <img alt='' src="./images/Amitabh2.jpeg"></img>
+      <img alt='' src="./images/Amitabh3.jpeg"></img>
+      <img alt='' src="./images/Amitabh4.jpeg"></img>
     </div>
   );
 }
